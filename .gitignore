@@ -1,0 +1,9 @@
+# IntelliJ stuff
+.idea
+*.iml
+
+# Godep
+Gopkg.lock
+
+# Vendor (for now)
+vendor
